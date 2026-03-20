@@ -1,0 +1,38 @@
+[
+  {
+    "product_id": 101,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 25000,
+    "brand": "Samsung",
+    "warranty_years": 2,
+    "specs": {
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "5000mAh"
+    }
+  },
+  {
+    "product_id": 102,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 800,
+    "brand": "Nike",
+    "size": ["S", "M", "L", "XL"],
+    "material": "Cotton",
+    "color": "Black"
+  },
+  {
+    "product_id": 103,
+    "name": "Milk",
+    "category": "Groceries",
+    "price": 50,
+    "brand": "Amul",
+    "expiry_date": "2024-12-01",
+    "nutrition": {
+      "fat": "3%",
+      "protein": "3.2g"
+    },
+    "is_perishable": true
+  }
+]
