@@ -1,4 +1,4 @@
-# Architecture Recommendation: Data Lake vs Data Warehouse vs Lakehouse
+## Architecture Recommendation: Data Lake vs Data Warehouse vs Lakehouse
 
 # Introduction
 In this assignment, we worked with multiple types of data files including CSV, JSON, and Parquet. These file formats represent semi-structured and structured data sources commonly found in modern data systems. Choosing the right architecture for storing and processing this data is important for scalability, flexibility, and analytics.
